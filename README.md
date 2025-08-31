@@ -1,12 +1,30 @@
-# React + Vite
+# 🍯 Manuka Honey React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **React application** that showcases a Manuka Honey product page.  
+The app is built with **Flexbox** and **CSS Grid**, optimized for both **mobile** and **desktop** views.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Mobile-first design** 📱 → scales beautifully to desktop 💻  
+- **Navbar** with logo, search, profile, and cart  
+- **Product hero section** with image, title, UMF & MGO ratings  
+- **Interactive popup** explaining UMF and MGO  
+- **Image gallery** with grid layout  
+- **Payment options**: One-time purchase & subscription  
+- **Quantity selector** + Add to Cart  
+- **Bundle section** with multiple items & discount  
+- **Delivery info** (free shipping, estimated date, Afterpay)  
+- **UMF™ scale** bar with active highlighting  
+- **Taste profile slider**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** (functional components + hooks)  
+- **CSS (Flexbox + Grid)** for layouts  
+- **Responsive Design** with media queries  
+
+---

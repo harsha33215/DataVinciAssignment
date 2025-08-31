@@ -35,6 +35,10 @@ The app is built with **Flexbox** and **CSS Grid**, optimized for both **mobile*
 
 TASK-2:
 Nested Checkbox Component
+project structure:
+-> index.html
+-> style.css
+-> script.js
 
 Published Link : https://data-vinci-task-2.vercel.app/
 

@@ -1,5 +1,7 @@
 # 🍯 Manuka Honey React App
 
+deployment link task-1 : https://data-vinci-assignment-delta.vercel.app/
+
 A responsive **React application** that showcases a Manuka Honey product page.  
 The app is built with **Flexbox** and **CSS Grid**, optimized for both **mobile** and **desktop** views.  
 
